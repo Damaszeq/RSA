@@ -1,3 +1,4 @@
+Tomasz Wejner - projekt na Bezpieczeństwo Sieci Teleinformatycznych (LAB)
 # System Kryptograficzny RSA-2048 / TRNG
 
 Projekt realizuje własną implementację systemu asymetrycznego RSA z wykorzystaniem generowania losowości ze źródeł sprzętowych (TRNG Jitter Entropy) oraz obliczeń wielkoprzyrostowych na liczbach całkowitych (biblioteka GMP).
